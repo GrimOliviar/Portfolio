@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+
+.hero{
+    display: flex;
+    /* margin: 20px; */
+    justify-content: center;
+   
+    align-items: center;
+    flex-direction:column;
+    
+    height: 500px;
+    background-image: url(grainy-sand-texture-wavy-stippled-gradient-background-grunge-noise-dotwork-wallpaper-black-dots_497399-897.jpg )  ;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin: 0px;
+    background-size: cover;
+    
+}
+main h1{
+    font-family: 'Bebas Neue', sans-serif;
+    margin-bottom: 0;
+font-size: 60px;
+
+
+}
+main h2 {
+  
+        font-size: 40px;
+    color: rgba(0, 0, 0, 0.724);
+    margin: 0px;
+ background: rgba(249, 245, 245, 0.443);
+ font-family: 'Bebas Neue', sans-serif;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Bebas Neue', sans-serif;
+
+
+}
+.container h2{
+    font-size: 40px;
+}
+main{
+    font-family: 'Rajdhani', sans-serif;
+
+}
+.contact{
+  text-decoration: none;  
+  color: black;
+}
+.contact:hover{
+    color: white;
+}
